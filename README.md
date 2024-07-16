@@ -3,7 +3,7 @@
 ##  Project Task 🕵️‍♂️🔎🔤
 The Natural Language Processing (NLP) used is Sentiment Analysis. 
 
-Demonstration video:
+**Demonstration video ▶️ :**
 [![Sentiment video](https://github.com/ElizaClapa/LLM-Project-LHL/blob/main/Images%20-%20Videos/3%20Stars.png?raw=true)](https://www.youtube.com/watch?v=xvQY_AMO1y0)
 
 ## Dataset 📊📋📉
