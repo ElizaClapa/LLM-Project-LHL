@@ -3,7 +3,7 @@
 ##  Project Task 🕵️‍♂️🔎🔤
 The Natural Language Processing (NLP) used is Sentiment Analysis. 
 
-**Demonstration video ▶️ :**
+**Demonstration video ▶️:**
 [![Sentiment video](https://github.com/ElizaClapa/LLM-Project-LHL/blob/main/Images%20-%20Videos/3%20Stars.png?raw=true)](https://www.youtube.com/watch?v=xvQY_AMO1y0)
 
 ## Dataset 📊📋📉
@@ -148,10 +148,40 @@ Even if the notebook would disconnect, with the saved model's progress, the trai
 
 ## Relevant Links 🔗🔗🔗
 
+### Project Files Access 📂🗄️🗃️
+
+Due to the large sizes of the project's files and limited bandwidth and Storage usage, the project had to be uploaded using Google Drive and providing the link to access it.
+
+The provided link below includes the **README.md** file, the **'Notebooks and Data'** folder and the **'Images - Videos'** folder. 
+
+#### **The data needed to run the notebooks is inside the *'Notebook and Data'* folder. They are in their respective directories relative to the notebooks' directory, which need to be saved inside the *'Notebooks and Data'* folder to run smoothly.** 
+
+The 'Notebooks and Data' folder includes:
+
+* 5 separate notebooks 📓📓📓 
+
+* 1 'Models' folder 📂
+
+* 1 'Logs_Full_Set' folder 📂
+
+* 1 'Logs' folder 📂
+
+* 1 'Logs_Full' folder 📂
+
+* 1 'Models Results' folder 📂
+
+* 1 'Data' folder 📂
+
+### Google Drive Access Link 🔗
+Access to the project's data files through this link:
+
+https://drive.google.com/drive/folders/1ejjA_zWabYOxzgsKVvoGKYRaj5H93FmS?usp=share_link
 
 ### Link and screenshot of model on HuggingFace: 
 
-Hugging Face Model Name and Link: [ElizaClaPa/SentimentAnalysis-YelpReviews-OptimizedModel🔗](https://huggingface.co/ElizaClaPa/SentimentAnalysis-YelpReviews-OptimizedModel).
+Hugging Face Model Name and Link: 
+
+[ElizaClaPa/SentimentAnalysis-YelpReviews-OptimizedModel🔗](https://huggingface.co/ElizaClaPa/SentimentAnalysis-YelpReviews-OptimizedModel).
 
 ![Model Card](https://github.com/ElizaClapa/LLM-Project-LHL/blob/main/Images%20-%20Videos/Hugging%20Face%20Model%20Card.png?raw=true)
 
@@ -159,3 +189,36 @@ Hugging Face Model Name and Link: [ElizaClaPa/SentimentAnalysis-YelpReviews-Opti
 ### Link to your chosen dataset: 
 
 The dataset can be found in Hugging Face, [YelpReviewFull🔗](https://huggingface.co/datasets/Yelp/yelp_review_full).
+
+## Conclusion 
+
+The Sentiment analysis model developed in this project can provide significant value to businesses in various ways. The following examples of practical applications and the value offered to businesses are briefly explained in the table below:
+
+
+| Areas -> | Customer Feedback Analysis  | Brand Monitoring  | Marketing Campaign Evaluation  | Customer Service Improvement  | Product Reviews and Ratings Analysis  | Churn Prediction  |Personalized Marketing |
+|:----------|:----------|:----------|:----------|:----------|:----------|:----------|:----------|
+| Applications    | Automatically analyze customer reviews, social media mentions, and survey responses to predict the star ratings. | Monitor the predicted star ratings of reviews across various platforms to gauge overall brand sentiment. | Evaluate the impact of marketing campaigns by analyzing predicted star ratings before, during, and after the campaign.   |Analyze predicted star ratings from customer service interactions, such as chat logs, emails, and call transcripts. | Aggregate and analyze predicted star ratings from product reviews on e-commerce platforms.   | Analyze customer sentiment to predict potential churn by focusing on predicted low star ratings.    | Use predicted star ratings to tailor marketing messages to individual customers based on their expressed sentiments. |
+| Value    | Improved customer experience (pain points and areas of improvement identified), Product Development based on customer preferences and feedback.    | Reputation Management (early detection of negative sentiment), and Competitor Analysis (identify their strengths and weaknesses)    | Campaign Optimization (identify aspects from campaigns that resonates with customers to improve future ones)    | Evaluate and improve customer service agents' performance based on sentiment trends in their interactions, and identify recurring issues in customer service and implement targeted training or process improvements.    | Sales Strategy (based on positive or negative trends in product reviews) and Inventory Management (stocking and discontinuing products based on customer sentiment)    | Retention Strategies and Proactive Engagement (with customers showing signs of negative sentiment to resolve issues before they lead to churn).    | Customer Engagement and Targeted Offers (promotions and discounts to customers based on their sentiment and behavior).
+
+
+ ### Example of Sentiment Analysis Model in Action 👊🥐🥖🍪
+
+**Scenario:**
+
+🍞 Bread & Butter Bakery 🧈 launches a new line of gluten-free products. They want to evaluate customer sentiment and adjust their strategy accordingly. 
+
+**1. Collect Reviews:** 👍👎 The bakery collects reviews from various platforms and uses the sentiment analysis model to predict the star ratings.
+
+**2. Analyze Feedback:** 🕵️‍♀️🔍 The model predicts that most reviews are 4 or 5 stars, indicating positive reception. However, a subset of reviews (1-2 stars) mentions issues with the texture of the gluten-free bread.
+
+**3. Adjust Strategy:**
+
+* **Product Improvement:** The bakery's team works on improving the texture of the gluten-free bread based on feedback.
+
+* **Customer Engagement:** They reach out to customers who left negative reviews, offering them a discount on their next purchase and informing them about the improvements made.
+
+**4. Evaluate Campaign:** 📋📏The bakery runs a marketing campaign highlighting the improved gluten-free products. Post-campaign, they see an increase in 4-5 star reviews and a decrease in complaints about texture.
+
+**5. Monitor Trends:** 📈📉The bakery continuously monitors review star ratings to ensure the new product maintains high customer satisfaction.
+
+By leveraging the sentiment analysis model to predict star ratings, 🍞 Bread & Butter Bakery 🧈 can make data-driven decisions to enhance their product offerings, improve customer service, and optimize marketing strategies, ultimately leading to increased customer satisfaction and business growth.
